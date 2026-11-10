@@ -5,4 +5,4 @@ It includes following:
 <br>
 Add student, remove student, positions, marks etc.
 <br>
-<p>This is a new feature (dustbin)</p>
+<p>This is a new feature (bin)</p>
